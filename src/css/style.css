@@ -1,0 +1,17 @@
+.hero, .woohoo {
+    margin: 0 auto;
+}
+
+.hero {
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 940px;
+}
+
+.woohoo {
+    width: 920px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ccc;
+}
